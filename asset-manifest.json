@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5470781f.chunk.css",
+    "main.js": "/static/js/main.a5221a07.chunk.js",
+    "main.js.map": "/static/js/main.a5221a07.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.08150bc2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.08150bc2.js.map",
+    "static/js/2.2111f745.chunk.js": "/static/js/2.2111f745.chunk.js",
+    "static/js/2.2111f745.chunk.js.map": "/static/js/2.2111f745.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.be52b5ac5dd533371f7972be1203bea9.js": "/precache-manifest.be52b5ac5dd533371f7972be1203bea9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5470781f.chunk.css.map": "/static/css/main.5470781f.chunk.css.map",
+    "static/media/iceland.mp4": "/static/media/iceland.e3de665b.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08150bc2.js",
+    "static/js/2.2111f745.chunk.js",
+    "static/css/main.5470781f.chunk.css",
+    "static/js/main.a5221a07.chunk.js"
+  ]
+}
